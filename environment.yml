@@ -1,5 +1,3 @@
 channles:
-  - conda
-dependencies:
- 
+  - conda:
      - fbprophet=0.7.1
