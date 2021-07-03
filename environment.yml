@@ -1,5 +1,5 @@
 channles:
   - conda
 dependencies:
-  - conda-forge:
+  - conda-env-conda-forge:
      - fbprophet=0.7.1
