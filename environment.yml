@@ -1,13 +1,22 @@
-channles:
-  - conda:
-     - fbprophet=0.7.1
-     
-  - pip : 
-     
-    - streamlit==0.80.0
-    - plotly==4.14.3
-    - yfinance==0.1.59
-    - yahoo-fin==0.8.8
-    - datetime==4.3
-    - yahoo_finance
-
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1=conda_forge
+  - _openmp_mutex=4.5=1_gnu
+  - arviz=0.11.2=pyhd8ed1ab_1
+  - binutils_impl_linux-64=2.35.1=h193b22a_2
+  - binutils_linux-64=2.35=h67ddf6f_30
+  - bzip2=1.0.8=h7f98852_4
+  - c-ares=1.17.1=h7f98852_1
+  - ca-certificates=2020.12.5=ha878542_0
+  - certifi=2020.12.5=py38h578d9bd_1
+  - cftime=1.4.1=py38h5c078b8_0
+  - convertdate=2.3.2=pyhd8ed1ab_0
+  - curl=7.76.1=h979ede3_1
+  - cycler=0.10.0=py_2
+  - cython=0.29.23=py38h709712a_0
+  - ephem=3.7.7.1=py38h1e0a361_1
+  - fbprophet=0.7.1=py38h950e882_0
+  - freetype=2.10.4=h0708190_1
+  - gcc_impl_linux-64=7.5.0=habd7529_19
