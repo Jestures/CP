@@ -3,12 +3,10 @@ channels:
   - conda-forge
 dependencies:
   - fbprophet
-  
-  -pip:
-    - streamlit
-    - plotly
-    - yfinance
-    - yahoo-fin
-    - datetime
-    - yahoo_finance
+  - streamlit
+  - plotly
+  - yfinance
+  - yahoo-fin
+  - datetime
+  - yahoo_finance
 
