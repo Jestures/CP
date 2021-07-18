@@ -1,9 +1,10 @@
 name: stats
 channels:
   - conda-forge
-  - pip
 dependencies:
   - fbprophet
+  
+ - pip:
   - streamlit
   - plotly
   - yfinance
