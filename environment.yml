@@ -1,6 +1,7 @@
 name: stats
 channels:
   - conda-forge
+  - pip
 dependencies:
   - fbprophet
   - streamlit
