@@ -5,10 +5,4 @@ dependencies:
   - cython
   - ephem
   - fbprophet
-  -pip:
-    - streamlit
-    - plotly
-    - yfinance
-    - yahoo-fin
-    - datetime
-    - yahoo_finance
+
