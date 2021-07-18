@@ -2,7 +2,5 @@ name: stats
 channels:
   - conda-forge
 dependencies:
-  - cython
-  - ephem
   - fbprophet
 
